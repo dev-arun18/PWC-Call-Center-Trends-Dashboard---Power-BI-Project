@@ -13,6 +13,24 @@ The main objectives of this project are:
 - To create an interactive dashboard in Power BI that visualizes these KPIs.
 - To provide actionable insights based on the analysis of customer and agent behavior.
 
+## Dataset
+
+The project utilizes the following dataset provided by the call center client:
+
+01 Call-Center-Dataset.xlsx: This dataset contains all necessary information on call volumes, customer satisfaction, agent performance, and other relevant metrics.
+
+## Solution Files
+
+The solution to the client's request is presented in the following file:
+
+Call Center Solution.pbix: This Power BI file contains the final dashboard that visualizes the KPIs and provides insights into the call center's performance.
+
+## Supporting Document
+
+For reference, the pwc call center project task.png file includes:
+
+The initial task and the email from the client outlining their specific requirements. This screenshot serves as background information and client expectations for the project.
+
 ## KPIs Included
 
 1. **Overall Customer Satisfaction**: Reflects customer feedback on the service they received.
